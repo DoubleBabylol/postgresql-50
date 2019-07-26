@@ -2,7 +2,7 @@
 50条经典sql语句的postgresql实现
 ##### 查询" 01 "课程比" 02 "课程成绩高的学生的信息及课程分数
 
-> select score from sc a left out join sc b????????????
+> select score from sc a left out join sc b
 >
 > ```
 > select * from Student RIGHT JOIN (
